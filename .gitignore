@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
