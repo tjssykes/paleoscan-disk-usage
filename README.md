@@ -24,7 +24,7 @@ usage by subfolder — plus a summary tab across all projects and CSV export.
 ## Running it
 
 ```bash
-python3 paleoscan_disk_usage.py
+python3 paleoscan_disk_usage_v3.py
 ```
 
 On Windows, you can also just double-click `paleoscan_disk_usage.pyw` — the `.pyw` extension
@@ -62,4 +62,5 @@ to a GitHub Release whenever you push a version tag (e.g. `v1.0.0`).
 
 MIT — see [LICENSE](LICENSE).
 
-<img width="1596" height="990" alt="image" src="https://github.com/user-attachments/assets/1e0a1452-a97f-4c05-a3d1-d834a8191edf" />
+<img width="736" height="504" alt="Screenshot 2026-07-29 080515" src="https://github.com/user-attachments/assets/3e7d853a-ad75-4747-9217-a02ddc026b41" />
+
