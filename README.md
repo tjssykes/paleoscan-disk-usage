@@ -1,3 +1,4 @@
+<img width="715" height="484" alt="Screenshot 2026-08-03 141233" src="https://github.com/user-attachments/assets/1ab1f90c-c3f1-4dfd-a77d-e59c1e79dd39" />
 # PaleoScan Project Disk Usage Viewer
 
 A small Python/Tkinter desktop app that reads a PaleoScan `PaleoScanProductProjectListBis.xml`
@@ -62,7 +63,9 @@ to a GitHub Release whenever you push a version tag (e.g. `v1.0.0`).
 
 MIT — see [LICENSE](LICENSE).
 
-<img width="715" height="484" alt="Screenshot 2026-08-03 140823" src="https://github.com/user-attachments/assets/7ae44325-e708-401f-96b4-5c8d0a5d1f6f" />
+<img width="715" height="484" alt="Screenshot 2026-08-03 140823" src="https://github.com/user-attachments/assets/ce782a89-b579-4651-90b7-67ea00070034" />
+<img width="715" height="484" alt="Screenshot 2026-08-03 141233" src="https://github.com/user-attachments/assets/68ac8cf8-7514-40e6-afcf-066f3f4726b6" />
+
 
 
 
