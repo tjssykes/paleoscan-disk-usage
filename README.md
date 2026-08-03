@@ -62,6 +62,7 @@ to a GitHub Release whenever you push a version tag (e.g. `v1.0.0`).
 
 MIT — see [LICENSE](LICENSE).
 
-<img width="715" height="484" alt="Screenshot 2026-08-03 140823" src="https://github.com/user-attachments/assets/b4b89a20-789c-4963-b11d-aff0d805e291" />
+<img width="715" height="484" alt="Screenshot 2026-08-03 140823" src="https://github.com/user-attachments/assets/7ae44325-e708-401f-96b4-5c8d0a5d1f6f" />
+
 
 
