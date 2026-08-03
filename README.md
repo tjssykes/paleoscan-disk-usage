@@ -1,4 +1,3 @@
-<img width="715" height="484" alt="Screenshot 2026-08-03 141233" src="https://github.com/user-attachments/assets/1ab1f90c-c3f1-4dfd-a77d-e59c1e79dd39" />
 # PaleoScan Project Disk Usage Viewer
 
 A small Python/Tkinter desktop app that reads a PaleoScan `PaleoScanProductProjectListBis.xml`
